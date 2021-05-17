@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\YSA\ödev4\Debug\ödev4.vcxprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\YSA\ödev4\Debug\ödev4.Form1.resources
+C:\Users\ASUS\Desktop\YSA\ödev4\Debug\ödev4.vcxproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\YSA\ödev4\Debug\ödev4.exe
+C:\Users\ASUS\Desktop\YSA\ödev4\Debug\ödev4.pdb

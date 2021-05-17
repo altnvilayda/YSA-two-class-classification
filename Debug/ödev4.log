@@ -1,0 +1,19 @@
+﻿  Form1.cpp
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(314,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(355,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(363,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(411,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(417,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(429,71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(431,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(437,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(448,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(448,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(449,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(449,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(500,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(524,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(502): warning C4700: uninitialized local variable 'total1' used
+C:\Users\ASUS\Desktop\YSA\ödev4\Form1.h(503): warning C4700: uninitialized local variable 'total2' used
+  Form1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ödev4.vcxproj -> C:\Users\ASUS\Desktop\YSA\ödev4\Debug\ödev4.exe
